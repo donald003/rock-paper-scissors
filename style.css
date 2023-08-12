@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buttons {
+    display: flex;
+    gap: 25px;
+}
+
+.btn {
+    font-size: 25px;
+    padding: 15px;
+}
+
+.text {
+    font-size: larger;
+}
